@@ -1,0 +1,13 @@
+{
+  "id" : "https://hopperrr.github.io/Lioni/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in hopperrr/Lioni project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hopperrr.github.io/Lioni/manifests/Lioni_1891_nati.json",
+    "label" : "Archivio di Stato di Avellino > Stato civile italiano > Lioni > 1891"
+  } ]
+}
