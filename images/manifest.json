@@ -1,0 +1,67 @@
+{
+  "id" : "https://hopperrr.github.io/Lioni/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in hopperrr/Lioni project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 5220,
+    "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte/canvas/",
+    "label" : {
+      "none" : [ "Piedimonte" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 164,
+              "height" : 129
+            }, {
+              "width" : 327,
+              "height" : 257
+            }, {
+              "width" : 653,
+              "height" : 513
+            }, {
+              "width" : 1305,
+              "height" : 1025
+            }, {
+              "width" : 2610,
+              "height" : 2050
+            }, {
+              "width" : 5220,
+              "height" : 4099
+            } ],
+            "profile" : "level0",
+            "width" : 5220,
+            "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4099
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5220,
+          "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 4099
+        },
+        "target" : "https://hopperrr.github.io/Lioni/images/Piedimonte/canvas/"
+      } ]
+    } ],
+    "height" : 4099
+  } ]
+}
