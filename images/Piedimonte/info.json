@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 164,
+    "height" : 129
+  }, {
+    "width" : 327,
+    "height" : 257
+  }, {
+    "width" : 653,
+    "height" : 513
+  }, {
+    "width" : 1305,
+    "height" : 1025
+  }, {
+    "width" : 2610,
+    "height" : 2050
+  }, {
+    "width" : 5220,
+    "height" : 4099
+  } ],
+  "profile" : "level0",
+  "width" : 5220,
+  "id" : "https://hopperrr.github.io/Lioni/images/Piedimonte",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4099
+}
