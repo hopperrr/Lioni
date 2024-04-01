@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://hopperrr.github.io/Lioni/annotations/annotations_test.json" ],
+  "@id" : "https://hopperrr.github.io/Lioni/annotations/collection.json",
+  "label" : "All annotations loaded in hopperrr/Lioni project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
