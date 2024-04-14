@@ -1,0 +1,2181 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/83d16350-8805-4ab0-b437-53235d4592f4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:19:37+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:19:37+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "25",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:19:37+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:384,645,176,31"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4182d2be-d926-4ebf-95c0-fa57c0350195",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tBirthdate",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:20:32+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "1/5/1859",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:20:32+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:898,707,244,75"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b83874c8-0bcb-4354-9f4d-dcea2d4f1878",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sSantoro",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:23+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:23+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1491,788,143,49"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e8f90758-fb1f-45b2-af98-f47b3c867969",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fRosaria",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:00+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:378,539,135,45"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e8a0338e-4207-4cf5-874b-ee27c8b3b57f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCaruso",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:37:14+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:37:14+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:626,742,107,49"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c3b54a79-e469-4953-8765-5caba172e043",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tBirthdate",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:25:59+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:25:59+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "1/1/1859",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:25:59+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1837,687,203,77"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/285bdec8-dd39-4783-8fc6-e251afdf82e1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCalvanese",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:30:02+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:30:02+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1264,442,132,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b3104a99-c470-4f66-8711-00b0b1ca2231",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCalvanese",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:25:19+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:25:19+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1833,639,213,66"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b370e08a-002f-42e8-aa2c-dc2cb62dc13a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCipriani",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:33:13+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:33:13+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1443,590,122,45"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/57f17420-6f1a-4645-9bf9-be5e9e51bb54",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCorso",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:36+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:36+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1322,534,78,54"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b8534f96-cb81-4e8f-b948-9bbefc22b58c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:47:25+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:47:25+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "30",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:47:25+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1376,415,115,40"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f9f7d0d7-d8ec-4e68-813c-05d5e3c75af2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAltonfina",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:45:22+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:45:22+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1229,737,177,59"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/50d29cf1-6e36-4839-87b6-2485450b2669",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sD'Amelio",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:45:38+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:45:38+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1498,745,153,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d1c81e3a-738d-4b6b-aedd-d1ea7c1350d7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fMaria",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:12+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:12+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1201,583,114,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/bec93074-924b-4bf4-be8b-fc5ce09b1bf8",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fVincenzo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:29:18+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:29:18+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1701,410,61,38"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/379d1023-b61a-426e-8b14-a56924aee186",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fDonna",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:32:33+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:32:33+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1215,594,109,38"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/95265356-4c49-4655-bca8-0a46836ce408",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fSalvadore",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:16+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:16+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1631,357,109,51"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/14d4e57f-d9ec-47d7-bf80-b431ff428740",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tDate",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:42:53+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tBirthdate",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:42:53+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "1/3/1859",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:42:53+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:921,633,227,81"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e6421f76-6d07-44cf-aec6-9d6f0b6d4e9a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tRecord birth",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:43:33+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "2",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:43:33+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:249,166,907,1191"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e1f4ae19-fc39-4cdb-9274-208f706e958e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAngelo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:55+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:55+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1475,382,108,62"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/8420b13f-9622-4af3-b8d7-b421478fb4bb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sGarofalo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:15:58+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:15:58+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:898,608,238,120"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/466b5b1c-44c4-496f-b4e6-36fbec37413d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:47+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:47+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "40",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:47+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1223,613,156,48"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d2ba22ed-3c41-44c6-a47b-3ee5510dcdf0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sSantoro",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:23:04+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:23:04+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1217,431,107,38"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ea44c818-610f-4d79-9599-831998b327ae",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCalabrese",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:28+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:25:28+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1301,585,131,55"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a28084bc-c282-4860-848b-8e50e9db8641",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fMaria",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:24:45+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:24:45+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1765,612,128,40"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3d1dd556-d47a-4b52-bebf-36155336e4a7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fRocco",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:36:49+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:36:49+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:420,744,98,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0297e243-ace5-4eda-9de2-3d9960da8a5c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCalvanese",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:31:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:31:52+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1209,485,122,21"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/aac33d42-37fb-4473-a1ce-57ce4af684bc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fVito",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:37:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:37:39+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:830,357,94,51"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b3d28b93-b6cc-4b2b-a002-ce516f028cde",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tBirthdate",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:50:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "1/5/1859",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:50:01+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1737,659,315,54"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d58f6830-768e-4429-aef3-163d0d529bcb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tRecord birth",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:50:30+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "3",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:50:30+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1158,126,919,1233"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/eb5e93d0-0c93-4dcd-b5b5-c2bfaa38aab1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "ocontadino",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:47:48+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:47:48+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1654,422,83,45"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6977d597-e90e-4c4c-9989-d86aa894cf65",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fNunziata",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:13+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:13+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1188,532,133,53"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1b754a19-a4f3-465e-80b2-c0497e54fd8a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "obracciale",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:40:12+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:40:12+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:836,417,89,36"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e3c494d3-ae84-4c91-a7e7-733877afe544",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "26",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:41+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:419,569,118,42"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c8fe3f4f-b65c-495f-9fb3-a78b2f2e3060",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fVincenzo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:38:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:38:39+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:710,391,138,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e9c15680-672a-40bc-9c39-e11a93a75e43",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sGarofalo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:27+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:27+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:369,468,147,54"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/48d41ae6-1f22-4ae0-b059-056ba6fc7c13",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAngiola",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:15:28+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:15:28+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:890,626,144,71"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d03f0046-d46c-4323-a74c-d4367f555d83",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAngiola",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tChild",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:00+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1748,607,160,68"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/ad28c808-4222-476d-b643-015670e3c8b2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sSantoro",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:24:07+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:24:07+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1211,430,117,40"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f12dccec-5310-4232-b4b9-12f3d50d01d7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:48+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:48+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "26",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:48+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:541,493,119,43"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/31bc9995-6271-447d-b13b-3f0ec155b403",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fNicola",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:08+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:17:08+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:637,456,107,47"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/092e2666-ea7f-479e-a4fe-d084aa8598d5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAntonio",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:16:24+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:16:24+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:800,424,90,48"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/54f28e96-55e9-4ada-9ce1-e5957a600901",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sD'Amelio",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:30+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:46:30+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1209,389,130,37"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3a723a29-df4a-465a-aa5d-900b8fc5aed9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:24:43+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:24:43+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "54",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:24:43+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1382,464,177,43"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5960aaa8-9941-4e4b-8791-3a6907f36b8a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fAchille",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:23:34+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:23:34+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1549,430,116,40"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6ca5de13-033a-453b-a7e7-2671045dffc9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:30:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:30:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "31",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:30:39+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1402,467,133,42"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/26b1a028-19af-4776-9478-21af1e0714e1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fVincenzo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:51+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:22:51+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1638,399,101,43"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a695780b-bde6-46a2-aff3-46b078bef37a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tRecord birth",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:21:34+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "5",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:21:34+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1149,193,911,1210"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0f6022d7-b7a9-48fe-8b72-3f93fcc0b949",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fCarmine",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:31:16+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:31:16+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1552,440,124,41"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e72306b0-51cf-403a-8482-4166e6ff0dd5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tRecord birth",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:34:44+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "1",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:34:44+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1185,198,916,1242"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/48e303d6-eea3-4cd7-a608-cdc6ad05b6cd",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCaruso",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:38:08+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:38:08+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:343,394,94,53"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5f2c9968-74d9-4b3a-95a2-cc5942865910",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:33:32+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:33:32+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "22",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:33:32+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1264,619,138,35"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2442b456-cf26-485f-8392-f329ea6564c9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:39:47+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:39:47+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "27",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:39:47+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:568,422,135,34"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/eb71e6c3-050e-432c-9162-370a10b04bf9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sCaruso",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:39:21+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tGrandfather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:39:21+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:923,599,107,44"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2319e007-c8a8-4f90-8ef6-fbae4b2d6a53",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tAge",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:54+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:54+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "25",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:48:54+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1228,571,170,31"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/dae8af40-c806-40c8-b6b1-49bb225990f0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sSantoro",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:21+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:41:21+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/w9KjDmx",
+    "type" : "Image",
+    "label" : "pag. 3",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:492,537,120,33"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/935a86bf-6006-4262-8a35-b1526a60eeaa",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "tRecord birth",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:21:04+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "4",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:21:04+00:00",
+    "purpose" : "transcribing"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:239,227,908,1192"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fad49355-f388-4723-9a4d-c64aec280a89",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "fGaetana",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:19:10+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:19:10+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:335,606,134,60"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/67f501e4-0366-414a-9f27-bf2cde0796fb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sGarofalo",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:16:41+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:16:41+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:375,470,143,56"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/36a41776-0534-499f-ae51-0b004e04ea5f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "obracciale",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:18:05+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:18:05+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:810,485,75,41"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1bb5e007-a662-455e-850c-2f37041f8e4d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "sMarra",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:18:46+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tMother",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-10T16:18:46+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/LaAbxPB",
+    "type" : "Image",
+    "label" : "pag. 5",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:462,608,103,47"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0b01a291-4467-4f9e-bae8-b49c5efff620",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2024-04-11T15:34:36+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "oproprietario",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:29:40+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "tFather",
+    "creator" : "https://recogito.pelagios.org/hopperrr",
+    "modified" : "2024-04-09T23:29:40+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://iiif-antenati.cultura.gov.it/iiif/2/wj4nmGg",
+    "type" : "Image",
+    "label" : "pag. 2",
+    "selector" : [ {
+      "type" : "FragmentSelector",
+      "conformsTo" : "http://www.w3.org/TR/media-frags/",
+      "value" : "xywh=pixel:1670,477,95,44"
+    } ]
+  }
+} ]
